@@ -5,8 +5,8 @@
 
 1. **Github Repository Setup**
 
-..* Log in to github account
-..* Create a repository
+..* Log in to github account.
+..* Create a repository.
 
 2. **Local development envrionment setup**
 
