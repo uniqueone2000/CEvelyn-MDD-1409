@@ -12,6 +12,7 @@
 
 ..* Create a local "project" folder via terminal application..
 Example: mkdir ~/Projects
+
 ..* Create a subfolder in that directory for your site name and navigate to that folder..
 Example: mkdir ~/Projects/SiteName.com && cd ~/Projects/SiteName.com
 
