@@ -3,7 +3,7 @@
 ---
 ## CEvelyn-MDD-1409
 
-1. Github Repository Setup
+1. **Github Repository Setup**
 
 * Log in to github account
 * Create a repository
