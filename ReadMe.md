@@ -10,7 +10,7 @@
 
 2. **Local development envrionment setup**
 
-..* Create a local "project" folder via terminal application..
+..1 Create a local "project" folder via terminal application..
 Example: mkdir ~/Projects
 
 ..* Create a subfolder in that directory for your site name and navigate to that folder..
