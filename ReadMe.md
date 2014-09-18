@@ -1,9 +1,12 @@
 # NDWDS Deployment Plan
 ### NDWDS (Next Dimension Web Design Studios)
 ---
-## CEvelyn-MDD-1409
 
+<<<<<<< HEAD
 1. **Github Repository Setup**
+=======
+1. Github Repository Setup
+>>>>>>> staging
 
 ..* Log in to github account.
 ..* Create a repository.
